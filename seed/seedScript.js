@@ -25,9 +25,9 @@ const allproducts = [
         price: 250000
     }),
     new Product ({
-        imagePath: "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-        name: 'Socks',
-        price: 229999
+        imagePath: "img/laptoprog.jpg",
+        name: 'LAPTOP ROG GTX 1050TI',
+        price: 10000000
     })
 ];
 
