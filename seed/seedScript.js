@@ -5,14 +5,14 @@ mongoose.connect('mongodb+srv://root:dhyD9SDOsTVc2JcY@cluster0.imabx.mongodb.net
 
 const allproducts = [
     new Product({
-        imagePath: "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-        name: 'Top',
-        price: 179999
+        imagePath: "https://images.unsplash.com/photo-1625645758520-69e4db363b8d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=871&q=80",
+        name: 'PS4 SLIM 500GB',
+        price: 3.000.000
     }),
     new Product({
-        imagePath: "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-        name: 'Bottom',
-        price: 49999
+        imagePath: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        name: 'KEYBOARD RGB',
+        price: 1.500.000
     }),
     new Product({
         imagePath: "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c25lYWtlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
