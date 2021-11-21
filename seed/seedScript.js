@@ -26,7 +26,7 @@ const allproducts = [
     }),
     new Product ({
         imagePath: "img/laptoprog.jpg",
-        name: 'LAPTOP ROG GTX 1050TI',
+        name: 'LAPTOP ROG GTX 1050I',
         price: 10000000
     })
 ];
